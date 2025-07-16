@@ -1,5 +1,7 @@
 # NFL Fantasy Website
-This is a full-stack project that uses React.js for frontend and Spring Boot/PostgreSQL for backend.
+This is a NFL Fantasy Website which allows users to filter through different positions, teams, and specific players to look at their statistics from the previous season to help them create their 2025 NFL Fantasy teams!
+
+This is a full-stack project that uses React.js for frontend and Spring Boot/PostgreSQL for backend. Additionally, I performed webscraping using BeautifulSoup of the Pro Football Reference website to create the dataset that I used: https://www.pro-football-reference.com/years/2024/.
 
 Using a similar dataset I webscraped for this project, I created a machine learning model to predict 2024 match games using data from the 2022 and 2023 seasons. **Link: https://github.com/siddsaran/nfl-match-predictor**
 
