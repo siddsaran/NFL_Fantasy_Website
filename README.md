@@ -10,3 +10,18 @@ Using a similar dataset I webscraped for this project, I created a machine learn
 4. Use JavaScript and CSS frontend to have a dynamic display of the content and a smooth user interface
 
 **Currently working on hosting backend**
+
+# Screenshots of Website
+While trying to fix backend hosting errors, here are screenshots showcasing the different filtering:
+
+### Name filter
+![Name Filter](namefilter.png)
+
+### Position filter
+![Position Filter](positionfilter.png)
+
+### Team and position filter
+![Team and Position Filter](teamandpositionfilter.png)
+
+### Team filter
+![Team Filter](teamfilter.png)
