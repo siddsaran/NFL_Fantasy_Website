@@ -1,6 +1,8 @@
 # NFL Fantasy Website
 This is a full-stack project that uses React.js for frontend and Spring Boot/PostgreSQL for backend.
 
+Using a similar dataset I webscraped for this project, I created a machine learning model to predict 2024 match games using data from the 2022 and 2023 seasons. **Link: https://github.com/siddsaran/nfl-match-predictor**
+
 # Steps
 1. Find the URL of the 2024 NFL statistics and perform webscraping to create the csv data 
 2. Use PostgreSQL to create a table in the database to put the csv contents in
