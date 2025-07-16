@@ -1,0 +1,40 @@
+.search-bar {
+  margin-bottom: 1rem;
+
+  input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+}
+
+.team-card {
+  background-color: #f4f4f4;
+  border-radius: 0.5rem;
+  text-align: center;
+  padding: 1rem;
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.teams-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1rem;
+}
+
+.team-image {
+  max-width: 100%;
+  max-height: 80px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.team-title {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
