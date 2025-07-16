@@ -9,4 +9,4 @@ Using a similar dataset I webscraped for this project, I created a machine learn
 3. Use Spring Boot backend to handle filtering the Player entities based on various factors, such as position, team, and name.
 4. Use JavaScript and CSS frontend to have a dynamic display of the content and a smooth user interface
 
-**Website Link coming soon**
+**Currently working on hosting backend**
